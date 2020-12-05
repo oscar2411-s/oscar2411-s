@@ -7,9 +7,10 @@ My current main language is Java, and I'm looking forward to release some open-s
   - If you need to contact me, then write an email to my [email](mailto:oscar.gaardsted.spalk@gmail.com)
 
 ## Menu
-   - [Projects]()
-      - [Discord-bot - Lucy]()
-      - [OLLE.ME]()
+   - [Menu](https://github.com/oscar2411-s/oscar2411-s/blob/main/README.md#menu)
+   - [Projects](https://github.com/oscar2411-s/oscar2411-s/blob/main/README.md#projects)
+      - [Discord-bot - Lucy](https://github.com/oscar2411-s/oscar2411-s/blob/main/README.md#open-source-discord-bot---lucy)
+      - [OLLE.ME](https://github.com/oscar2411-s/oscar2411-s/blob/main/README.md#olleme-aka-my-website)
    - [Tools I use](https://github.com/oscar2411-s/oscar2411-s/blob/main/README.md#tools-i-use)
 
 ## Projects:

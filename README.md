@@ -6,6 +6,12 @@ My current main language is Java, and I'm looking forward to release some open-s
   - I'm coding in, and learning Java currently
   - If you need to contact me, then write an email to my [email](mailto:oscar.gaardsted.spalk@gmail.com)
 
+## Menu
+   - [Projects]()
+      - [Discord-bot - Lucy]()
+      - [OLLE.ME]()
+   - [Tools I use](https://github.com/oscar2411-s/oscar2411-s/blob/main/README.md#tools-i-use)
+
 ## Projects:
   
   ### Open-Source Discord-bot - Lucy

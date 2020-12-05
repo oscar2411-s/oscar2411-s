@@ -1,4 +1,4 @@
-## <img src="https://avatars2.githubusercontent.com/u/57236774?s=460&u=b06002ce628b4b0aab6254be8c1a9791bc890d36&v=4"/> Hello and welcome to my page!!!
+## <img width="50px" height="50px" src="https://avatars2.githubusercontent.com/u/57236774?s=460&u=b06002ce628b4b0aab6254be8c1a9791bc890d36&v=4"/> Hello and welcome to my page!!!
 
 My current main language is Java, and I'm looking forward to release some open-source code.
 

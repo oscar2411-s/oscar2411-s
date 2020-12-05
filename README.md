@@ -24,8 +24,8 @@ My current main language is Java, and I'm looking forward to release some open-s
     - C# in .Net framework
     
 ## Tools I use:
-   - <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> Visual Studio Code
-   - <img align="left" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" /> Eclipse
-   - <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/1200px-Visual_Studio_Icon_2019.svg.png" /> Visual Studio
-   - <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/1024px-IntelliJ_IDEA_Logo.svg.png" /> IntelliJ
-   - <img align="left" width="26px" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" /> Sublime 
+   - <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> [Visual Studio Code](https://code.visualstudio.com/)
+   - <img align="left" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" /> [Eclipse](https://www.eclipse.org/)
+   - <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/1200px-Visual_Studio_Icon_2019.svg.png" /> [Visual Studio](https://visualstudio.microsoft.com/)
+   - <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/1024px-IntelliJ_IDEA_Logo.svg.png" /> [IntelliJ](https://www.jetbrains.com/idea/promo/?gclid=CjwKCAiA_Kz-BRAJEiwAhJNY7xGHgeVfXnwS5oU3CO4SlUc2mB3QlQot412wvppzOf9lA3hWKj10HBoCzEkQAvD_BwE)
+   - <img align="left" width="26px" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" /> [Sublime](https://www.sublimetext.com/) 
